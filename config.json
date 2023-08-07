@@ -1,9 +1,9 @@
 {
-    "prefix": "",
-    "botname": "",
-    "support": "https://discord.gg/",
+    "prefix": "@",
+    "botname": "Tsunami Secure",
+    "support": "https://discord.gg/KJycRnqqUC",
     "ghostping":  true,
-    "ownerId": "",
+    "ownerId": "1092105492169498735",
     "ignore": [
         ""
     ],
